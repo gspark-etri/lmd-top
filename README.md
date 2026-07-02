@@ -15,10 +15,9 @@ It reads your existing Prometheus + Kubernetes; it owns no data of its own.
 
 ## Demo
 
-<!-- animated demo — generate with:  lmd-top --cast && agg docs/demo.cast docs/demo.gif
-![lmd-top demo](docs/demo.gif) -->
+![lmd-top demo](docs/demo.gif)
 
-<sub>Soft (Catppuccin) theme · live braille timelines · cross-layer drill-down.</sub>
+<sub>Soft (Catppuccin) theme · live braille timelines · cross-layer drill-down. Regenerate with `lmd-top --cast && agg docs/demo.cast docs/demo.gif`.</sub>
 
 ```
 ⠙ lmd-top [observe]   llm-d · 8 nodes   ⌂ gw 10.254.184.233 ●   · updated 2s ago
